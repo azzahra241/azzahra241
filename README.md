@@ -4,23 +4,13 @@
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="65%">
-      <h3>✨ About Me</h3>
-      <ul>
-        <li>🏫 Undergraduated <code>Informatics Engineering</code> Student at <a href="https://univpancasila.ac.id/">Universitas Pancasila</a>.</li>
-        <li>📊 Deeply passionate about <code>Data Science</code>, and <code>Machine Learning.</code></li>
-        <li>💻 Currently honing my skills in database architecture using <code>SQL</code> and advanced scripting via <code>Python</code>.</li>
-        <li>🌱 Continuously exploring Generative AI and technical infrastructure logic.</li>
-        <li>🚀 Open to collaborating on data-driven projects and innovative technology solutions.</li>
-      </ul>
-    </td>
-    <td valign="top" width="35%" align="right">
-      <br><br>
-    </td>
-  </tr>
-</table>
+## ✨ About Me
+
+- 🏫 Undergraduate `Informatics Engineering` Student at [Universitas Pancasila](https://univpancasila.ac.id/).
+- 📊 Deeply passionate about `Data Science` and `Machine Learning`.
+- 💻 Currently honing my skills in database architecture using `SQL` and advanced scripting via `Python`.
+- 🌱 Continuously exploring Generative AI and technical infrastructure logic.
+- 🚀 Open to collaborating on data-driven projects and innovative technology solutions.
 
 <br>
 
@@ -28,13 +18,9 @@
 <p align="center">
   <a href="mailto:azzahra.ptr031@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <a href="https://github.com/azzahra211"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="www.linkedin.com/in/az-zahra-putri-7400b535b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/azzahratr__?utm_source=qr"><img
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
-      alt="Instagram" /></a>
-  <a href="https://medium.com/@azzahra.ptr031"><img
-      src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"
-      alt="Medium" /></a>
+  <a href="https://www.linkedin.com/in/az-zahra-putri-7400b535b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.instagram.com/azzahratr__?utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://medium.com/@azzahra.ptr031"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <hr>
@@ -62,7 +48,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&maxAge=2592000&logoColor=white">
   </a>
 </p>
 
@@ -76,6 +62,7 @@
   &emsp;
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/>
   &emsp;
+</p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
 
