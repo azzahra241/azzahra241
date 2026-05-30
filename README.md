@@ -17,7 +17,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect With Me
 <p align="center">
   <a href="mailto:azzahra.ptr031@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-  <a href="https://github.com/azzahra211"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="[https://github.com/azzahra211](https://github.com/azzahra241)"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/az-zahra-putri-7400b535b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.instagram.com/azzahratr__?utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://medium.com/@azzahra.ptr031"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
