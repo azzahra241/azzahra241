@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/az-zahra-putri-7400b535b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="hwww.linkedin.com/in/az-zahra-putri-7400b535b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:azzahra.ptr031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Tangerang%20Selatan%2C%20ID-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br>
@@ -25,7 +24,8 @@ Undergraduate Informatics Engineering student at Universitas Pancasila with a de
 </p>
 
 **Languages & Tools:** Python (Scikit-Learn) · SQL · R / RStudio · C++ · Octave · Microsoft Office
-**Focus Areas:** Machine Learning · Statistical Analysis · Predictive Modeling · Data Structures & Algorithms · Generative AI
+
+**Focus Areas:** Machine Learning · Statistical Analysis · Predictive Modeling · Generative AI
 
 <br>
 
@@ -51,12 +51,12 @@ Undergraduate Informatics Engineering student at Universitas Pancasila with a de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azzahra241&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzahra241&layout=compact&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azzahra241&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzahra241&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzahra241&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzahra241&theme=radical&hide_border=true" />
 </p>
 
 <br>
@@ -64,7 +64,7 @@ Undergraduate Informatics Engineering student at Universitas Pancasila with a de
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azzahra241&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azzahra241&bg_color=0d1117&color=a970ff&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true" />
 </p>
 
 <p align="center">
