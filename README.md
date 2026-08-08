@@ -19,8 +19,8 @@ Undergraduate Informatics Engineering student at Universitas Pancasila with a de
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,mysql,git,github,vscode&perline=6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,mysql,git,github,vscode&perline=4" />
 </p>
 
 **Languages & Tools:** Python (Scikit-Learn) · SQL · R / RStudio · C++ · Octave · Microsoft Office
